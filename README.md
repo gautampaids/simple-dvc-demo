@@ -22,4 +22,6 @@ git init
 dvc init
 ```
 
+```bash
 git add . && git commit -m "First commit"
+```
