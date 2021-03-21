@@ -23,5 +23,13 @@ dvc init
 ```
 
 ```bash
-git add . && git commit -m "First commit"
+dvc add data_given/winequality.csv
+```
+
+```bash
+git add . && git commit -m "update commit"
+```
+
+```bash
+git remote add origin <SRC>
 ```
