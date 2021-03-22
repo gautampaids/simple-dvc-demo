@@ -3,3 +3,4 @@ dvc
 dvc[gdrive]
 sklearn
 pywin32
+pandas
